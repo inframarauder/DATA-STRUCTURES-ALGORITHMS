@@ -81,11 +81,11 @@ static String getPostfix(String infix)
 			
 		}
 }
-	/*public static void main(String args[])
+	public static void main(String args[])
 	{
 		Scanner in=new Scanner(System.in);
 		System.out.println("ENTER AN INFIX EXPRESSION :");
 		String infix=in.nextLine();
 		System.out.println("POSTIFIX :" +getPostfix(infix));
 	}
-}*/
+}
