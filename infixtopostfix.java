@@ -1,3 +1,5 @@
+//A program to convert an infix expression to postfix
+
 import java.util.Scanner;
 import java.util.Stack;
 
